@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 4f4ba57fa09334c77b6a7fd5288bb85d
+timeCreated: 1458649058
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cone
+    100002: Cone_001
+    100004: Cone_002
+    100006: Cone_003
+    100008: Cone_004
+    100010: Cone_005
+    100012: Cone_006
+    100014: Cone_007
+    100016: Cone_008
+    100018: Cone_009
+    100020: Cone_010
+    100022: Cone_011
+    100024: Cougar
+    100026: Cougar_001
+    100028: Cube
+    100030: Cube_001
+    100032: Cylinder
+    100034: Cylinder_001
+    100036: Cylinder_002
+    100038: Eyes
+    100040: //RootNode
+    100042: Gums_B
+    100044: Gums_T
+    100046: Torus
+    100048: Torus_001
+    100050: Torus_002
+    100052: Torus_003
+    400000: Cone
+    400002: Cone_001
+    400004: Cone_002
+    400006: Cone_003
+    400008: Cone_004
+    400010: Cone_005
+    400012: Cone_006
+    400014: Cone_007
+    400016: Cone_008
+    400018: Cone_009
+    400020: Cone_010
+    400022: Cone_011
+    400024: Cougar
+    400026: Cougar_001
+    400028: Cube
+    400030: Cube_001
+    400032: Cylinder
+    400034: Cylinder_001
+    400036: Cylinder_002
+    400038: Eyes
+    400040: //RootNode
+    400042: Gums_B
+    400044: Gums_T
+    400046: Torus
+    400048: Torus_001
+    400050: Torus_002
+    400052: Torus_003
+    2300000: Cone
+    2300002: Cone_001
+    2300004: Cone_002
+    2300006: Cone_003
+    2300008: Cone_004
+    2300010: Cone_005
+    2300012: Cone_006
+    2300014: Cone_007
+    2300016: Cone_008
+    2300018: Cone_009
+    2300020: Cone_010
+    2300022: Cone_011
+    2300024: Cougar
+    2300026: Cougar_001
+    2300028: Cube
+    2300030: Cube_001
+    2300032: Cylinder
+    2300034: Cylinder_001
+    2300036: Cylinder_002
+    2300038: Eyes
+    2300040: Gums_B
+    2300042: Gums_T
+    2300044: Torus
+    2300046: Torus_001
+    2300048: Torus_002
+    2300050: Torus_003
+    3300000: Cone
+    3300002: Cone_001
+    3300004: Cone_002
+    3300006: Cone_003
+    3300008: Cone_004
+    3300010: Cone_005
+    3300012: Cone_006
+    3300014: Cone_007
+    3300016: Cone_008
+    3300018: Cone_009
+    3300020: Cone_010
+    3300022: Cone_011
+    3300024: Cougar
+    3300026: Cougar_001
+    3300028: Cube
+    3300030: Cube_001
+    3300032: Cylinder
+    3300034: Cylinder_001
+    3300036: Cylinder_002
+    3300038: Eyes
+    3300040: Gums_B
+    3300042: Gums_T
+    3300044: Torus
+    3300046: Torus_001
+    3300048: Torus_002
+    3300050: Torus_003
+    4300000: Cougar_001
+    4300002: Cougar
+    4300004: Cone_011
+    4300006: Cone_010
+    4300008: Cone_009
+    4300010: Cone_008
+    4300012: Cone_006
+    4300014: Cone_007
+    4300016: Cube_001
+    4300018: Gums_B
+    4300020: Cone_005
+    4300022: Cone_004
+    4300024: Cone_003
+    4300026: Cone_002
+    4300028: Cone_001
+    4300030: Cone
+    4300032: Gums_T
+    4300034: Cube
+    4300036: Cylinder_002
+    4300038: Cylinder_001
+    4300040: Cylinder
+    4300042: Torus_003
+    4300044: Torus_002
+    4300046: Torus_001
+    4300048: Torus
+    4300050: Eyes
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
